@@ -2,7 +2,7 @@
 
 import { cn } from "@/lib/utils";
 
-import { useChat } from "ai/react";
+import { useChat } from "@ai-sdk/react";
 
 import { ArrowUpIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
